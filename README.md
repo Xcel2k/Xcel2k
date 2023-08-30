@@ -1,4 +1,4 @@
-<p align ="center">![logo align="center"](https://github.com/Xcel2k/Xcel2k/blob/main/5ARz.gif)</p>
+<p align ="center">![logo](https://github.com/Xcel2k/Xcel2k/blob/main/5ARz.gif)</p>
 <h1 align="center">Hi 👋, I'm Muhammad Osama</h1>
 <h3 align="center">I'm a Django Developer from Pakistan, currently interning for LearnOBots in the same...</h3>
 <h3 align="center">I also happen to be a hobbyist photographer, so do check out my insta for some amazing pictures, Ciao!</h3>
