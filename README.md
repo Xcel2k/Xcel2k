@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/xcel2k" target="blank"><img src="https://img.shields.io/twitter/follow/xcel2k?logo=twitter&style=for-the-badge" alt="xcel2k" /></a> </p>
 
-- 🔭 I’m currently working on [CupidOverflow](https://github.com/Xcel2k/DjangoForum)
+- 🔭 I’m currently working on [CupidOverflow](https://github.com/Xcel2k/CupidOverflow)
 
 - 🌱 I’m currently learning **Django**
 
