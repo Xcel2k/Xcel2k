@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/xcel2k](github.com/xcel2k)
 
-- 💬 Ask me about **Python, HTML, CSS, JavaScript, Git, Arduino, Ns3, Tensorflow, Pandas, Keras, MATLAB, Machine Learning**
+- 💬 Ask me about **Python, JavaScript, Git, Arduino, Ns3, Tensorflow, Pandas, Keras, MATLAB, Machine Learning**
 
 - 📫 How to reach me **mohammad.osama50@gmail.com**
 
