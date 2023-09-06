@@ -33,3 +33,14 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xcel2k&show_icons=true&locale=en&layout=compact" alt="xcel2k" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xcel2k&show_icons=true&locale=en" alt="xcel2k" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xcel2k&" alt="xcel2k" /></p>
+
+
+
+
+
+
+
+
+
+
